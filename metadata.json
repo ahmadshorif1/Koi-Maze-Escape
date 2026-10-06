@@ -1,0 +1,6 @@
+{
+  "name": "Koi Maze Escape",
+  "description": "A mobile-first circular water maze puzzle game with tilt motion controls, 20 levels, swimming koi physics, and stunning aquatic environments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
